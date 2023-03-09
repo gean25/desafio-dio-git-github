@@ -1,2 +1,3 @@
-# desafio-dio-git-github
-Desafio de Projeto sobre Git/Github Organizando os Estudos.
+# Primeiro Desafio de Projeto  :robot:
+
+:books: Organizando os estudos utilizando o Git/Github.
