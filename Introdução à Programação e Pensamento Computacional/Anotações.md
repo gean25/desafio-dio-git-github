@@ -1,7 +1,5 @@
 # Anotações :pen:
 
-
-
 #### Pensamento Computacional
 
 Baseado em 4 Pílares 
@@ -14,8 +12,6 @@ Baseado em 4 Pílares
 
 - Design de Algoritmos
 
-
-
 **Decomposição** - Dado um grande problema complexo, devemos parti-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.
 
 **Padrões** - Reconhecer similaridades e diferenças.
@@ -24,17 +20,13 @@ Baseado em 4 Pílares
 
 **Algoritmos** - Processo de resolução de problemas "step by step" utilizando instruções.
 
-
-
 ##### Resolução de Problemas com Pensamento Computacional
 
--  Identificar mecanismos
+- Identificar mecanismos
 
 - Resursos comuns
 
 - Detalhes mais importantes 
-  
-  
 
 **Habilidades Complementares**
 
@@ -46,11 +38,9 @@ Baseado em 4 Pílares
   
   - Abdução
 
-
-
 #### Lógica de Programação
 
-Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
+Organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa. 
 
 ###### Técnica Linear
 
@@ -59,8 +49,6 @@ Ordenação de elementos por uma única propriedade.
 - Execução Sequenciada de uma série de operações
 
 - Estrutura Hierárquica
-
-
 
 ###### Técnica Estruturada
 
@@ -74,8 +62,6 @@ Organização, disposição e ordem dos elementos essenciais que compõem um cor
 
 - Manutenção
 
-
-
 ###### Técnica Modular
 
 Partes independentes que fazem parte de um conjunto de regras.
@@ -87,5 +73,3 @@ Partes independentes que fazem parte de um conjunto de regras.
 - Decompor Problema
 
 - Verificação do Módulo
-
-
