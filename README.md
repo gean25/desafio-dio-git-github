@@ -3,6 +3,6 @@
 #### <p align="center">Bootcamp DIO</p>
 <br>
 
-> #### <p align="center"> Organizando os estudos utilizando o as tecnologias Git/Github. </p>
+ #### <p align="center"> Organizando os estudos utilizando o as tecnologias Git/Github. </p>
 
 
